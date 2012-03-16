@@ -2,8 +2,8 @@
 //  CMFile.m
 //  LibraryLiberty
 //
-//  Created by alto on 8/23/09.
-//  Copyright 2009 FuelCollective. All rights reserved.
+//  Created by Krystof Vasa on 8/23/09.
+//  Copyright 2009 FuelCollective, LLC. All rights reserved.
 //
 
 #import "CMFile.h"

@@ -2,8 +2,8 @@
 //  XUWindowBackgroundView.m
 //  UctoX
 //
-//  Created by alto on 7/8/09.
-//  Copyright 2009 Silverado High School. All rights reserved.
+//  Created by Krystof Vasa on 7/8/09.
+//  Copyright 2009 Fuel Collective, LLC. All rights reserved.
 //
 
 #import "CMWindowBackgroundView.h"

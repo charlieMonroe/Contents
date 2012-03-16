@@ -2,8 +2,8 @@
 //  LibraryLibertyAppDelegate.m
 //  LibraryLiberty
 //
-//  Created by alto on 8/22/09.
-//  Copyright 2009 FuelCollective. All rights reserved.
+//  Created by Krystof Vasa on 8/22/09.
+//  Copyright 2009 FuelCollective, LLC. All rights reserved.
 //
 
 #import "LibraryLibertyAppDelegate.h"

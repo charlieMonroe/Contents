@@ -2,8 +2,8 @@
 //  CMLibrarySearcherLoader.m
 //  LibraryLiberty
 //
-//  Created by alto on 9/2/09.
-//  Copyright 2009 FuelCollective. All rights reserved.
+//  Created by Krystof Vasa on 9/2/09.
+//  Copyright 2009 FuelCollective, LLC. All rights reserved.
 //
 
 #import "CMLibrarySearcherLoader.h"
