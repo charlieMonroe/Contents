@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Address Book</string>
+		<key>path</key>
+		<string>~/Library/Application Support/AddressBook</string>
+		<key>icon</key>
+		<string>AddressBook32</string>
+		<key>description</key>
+		<string>Your contacts from Address Book.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Application Support</string>
+		<key>path</key>
+		<string>~/Library/Application Support/</string>
+		<key>icon</key>
+		<string>AppSupport32</string>
+		<key>description</key>
+		<string>Some apps store here their preferences.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Contextual Menu Items</string>
+		<key>path</key>
+		<string>~/Library/Contextual Menu Items/</string>
+		<key>icon</key>
+		<string>ContMenuItems32</string>
+		<key>description</key>
+		<string>Contextual menu plugins for Finder.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dashboard Widgets</string>
+		<key>path</key>
+		<string>~/Library/Widgets</string>
+		<key>icon</key>
+		<string>Widgets32</string>
+		<key>description</key>
+		<string>Your widgets from Dashboard.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Desktop</string>
+		<key>path</key>
+		<string>~/Desktop</string>
+		<key>icon</key>
+		<string>Desktop32</string>
+		<key>description</key>
+		<string>Files on your Desktop.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fonts</string>
+		<key>path</key>
+		<string>~/Library/Fonts</string>
+		<key>icon</key>
+		<string>Fonts32</string>
+		<key>description</key>
+		<string>Your fonts.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>iCal</string>
+		<key>path</key>
+		<string>~/Library/Application Support/iCal/</string>
+		<key>icon</key>
+		<string>iCal32</string>
+		<key>description</key>
+		<string>Your iCal database.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Input Managers</string>
+		<key>path</key>
+		<string>~/Library/InputManagers/</string>
+		<key>icon</key>
+		<string>InputMan32</string>
+		<key>description</key>
+		<string>Here are input managers - add-ons for different apps, mostly Safari.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Internet Plugins</string>
+		<key>path</key>
+		<string>~/Library/Internet Plug-Ins/</string>
+		<key>icon</key>
+		<string>Internet32</string>
+		<key>description</key>
+		<string>Internet plugins include Shockwave and Flash plugins.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Keychains</string>
+		<key>path</key>
+		<string>~/Library/Keychains/</string>
+		<key>icon</key>
+		<string>Keychains32</string>
+		<key>description</key>
+		<string>Your passwords are stored in keychains.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mail</string>
+		<key>path</key>
+		<string>~/Library/Mail/</string>
+		<key>icon</key>
+		<string>Mail32</string>
+		<key>description</key>
+		<string>Here are all your mail accounts and messages.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Preference Panes</string>
+		<key>path</key>
+		<string>~/Library/PreferencePanes/</string>
+		<key>icon</key>
+		<string>Preferences32</string>
+		<key>description</key>
+		<string>Your preference panes.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Preferences</string>
+		<key>path</key>
+		<string>~/Library/Preferences/</string>
+		<key>icon</key>
+		<string>Preferences32</string>
+		<key>description</key>
+		<string>All your preferences.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>QuickTime Plugins</string>
+		<key>path</key>
+		<string>~/Library/QuickTime/</string>
+		<key>icon</key>
+		<string>QuickTime32</string>
+		<key>description</key>
+		<string>QuickTime plugins.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Safari</string>
+		<key>path</key>
+		<string>~/Library/Safari/</string>
+		<key>icon</key>
+		<string>Safari32</string>
+		<key>description</key>
+		<string>Database of Safari bookmarks and autofills.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Screen Savers</string>
+		<key>path</key>
+		<string>~/Library/Screen Savers/</string>
+		<key>icon</key>
+		<string>ScreenSaver32</string>
+		<key>description</key>
+		<string>Your screensavers.</string>
+	</dict>
+</array>
+</plist>

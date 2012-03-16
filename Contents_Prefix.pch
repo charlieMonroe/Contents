@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'LibraryLiberty' target in the 'LibraryLiberty' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+	#define FCLog NSLog
+	#define FCLocalizedString(A) (A)
+#endif
